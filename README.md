@@ -1,8 +1,12 @@
 <h1 align="center">✨ Isha Patel ✨</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Lover | UI/UX Enthusiast</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email-isha.patel.cg@gmail.com-ffb6c1?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://ishapatelportfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:isha.patel.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-isha.patel.cg@gmail.com-ffb6c1?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -86,11 +90,6 @@ C · C++ · JavaScript · Java
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isha-patel-14&label=Profile%20views&color=ff69b4&style=flat-square" alt="profile views" />
-</p>
-
----
 
 ✨ “Code like a girl, build like a queen 👑”  
 🌟 Thanks for visiting my GitHub! Let's create magic together.
